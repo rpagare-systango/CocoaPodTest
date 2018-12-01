@@ -7,3 +7,8 @@ deploy:
   script: ./scripts/push.sh
   on:
     tags: true
+env:
+  global:
+  - APP_NAME="TestCocoaPods"
+  - 'DEVELOPER_NAME="iPhone Developer: Sumit Singhal (M8SV9Y58QA)"'
+  - PROFILE_NAME="Smile_Pass_User_Test"
