@@ -11,5 +11,5 @@ s.platform          = :ios
 s.source            = { :http => 'https://github.com/rpagare-systango/CocoaPodTest/raw/master/TestFramework.zip' }
 
 s.ios.deployment_target = "9.0"
-s.vendored_frameworks = 'TestFramework/TestFramework.framework'
+s.ios.vendored_frameworks = 'TestFramework.framework'
 end 
