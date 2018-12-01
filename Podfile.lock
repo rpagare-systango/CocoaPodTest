@@ -1,0 +1,16 @@
+PODS:
+  - TestFramework (1.0.0)
+
+DEPENDENCIES:
+  - TestFramework (from `/Users/stplmacmini14/Desktop/TestFramework/TestFramework/TestFramework.podspec`)
+
+EXTERNAL SOURCES:
+  TestFramework:
+    :podspec: "/Users/stplmacmini14/Desktop/TestFramework/TestFramework/TestFramework.podspec"
+
+SPEC CHECKSUMS:
+  TestFramework: 66bd266af8e92319f81086450d346c034ad071f0
+
+PODFILE CHECKSUM: 41d43ae75eb5d89b1ff8d46653c7a2226d54f31e
+
+COCOAPODS: 1.5.0

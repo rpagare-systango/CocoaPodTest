@@ -1,0 +1,22 @@
+{
+  "name": "TestFramework",
+  "version": "1.0.0",
+  "summary": "SDK Description.",
+  "homepage": "http://example.com/",
+  "authors": {
+    "Name": "Rajat Pagare"
+  },
+  "license": {
+    "type": "Apache-2.0",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "http": "https://github.com/rpagare-systango/TestFramework/raw/master/TestFramework.zip"
+  },
+  "ios": {
+    "vendored_frameworks": "TestFramework.framework"
+  }
+}
