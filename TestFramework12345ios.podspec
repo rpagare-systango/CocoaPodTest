@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name              = 'TestFramework'
+s.name              = 'TestFramework12345ios'
 s.version           = '1.0.0'
 s.summary           = 'SDK Description.'
 s.homepage          = 'http://example.com/'
